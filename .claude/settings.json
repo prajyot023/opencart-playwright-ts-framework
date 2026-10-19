@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright-test",
+      "Edit(tests/**)",
+      "Edit(specs/**)"
+    ]
+  }
+}

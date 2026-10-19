@@ -10,3 +10,4 @@ logs/
 reports/
 screenshots/
 .DS_Store
+.playwright-mcp/
